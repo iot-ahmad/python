@@ -1,3 +1,4 @@
+# Find the unique numbers in a list
 numbers = [1, 2, 2, 3, 4, 4, 4, 5]
 unique_numbers = []
 for i in numbers:
