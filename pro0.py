@@ -1,3 +1,4 @@
+#This program collects user information and calculates their age based on the birth year provided. It also categorizes the user into an age group (minor, adult, or senior citizen) and displays all the collected information.
 name=input("Enter your name: ")
 age=int(input("Enter your age: "))
 major=input("Enter your major: ")
